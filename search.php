@@ -2,6 +2,7 @@
 
 <main class="page-content">
     <section class="main-section" data-location="search-form">
+        <h1 class="main-section-title">Search friends</h1>
         <form class="form" method="GET" action="/">
             <div class="input-group search-input">
                 <input class="border-inp" name="search_text" type="text" placeholder="Name or Player ID">
@@ -22,6 +23,162 @@
             </div>
             <button class="button yellow" type="submit">Search</button>
         </form>
+    </section>
+    <section class="main-section" data-location="search-results">
+        <div class="friends-container">
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/default-avatar.png" alt="User photo">
+                    <div class="status-indicator online"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Juan L. Buriel</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/card-image-2.jpg" alt="User photo">
+                    <div class="status-indicator online"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Ipoenx Phu Dinx</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/default-avatar.png" alt="User photo">
+                    <div class="status-indicator"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Akatsuki Itachi</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/card-image-1.png" alt="User photo">
+                    <div class="status-indicator online"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Vincent Guan</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/default-avatar.png" alt="User photo">
+                    <div class="status-indicator"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Lê Triều Vỹ</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/default-avatar.png" alt="User photo">
+                    <div class="status-indicator"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">李啟泓</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/card-image-1.png" alt="User photo">
+                    <div class="status-indicator online"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Nicholas Tan</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="friend-wrapper">
+                <div class="avatar-container">
+                    <img src="/assets/images/default-avatar.png" alt="User photo">
+                    <div class="status-indicator"></div>
+                </div>
+                <div class="info-container">
+                    <div class="data">
+                        <div class="name">Claudia Thofehrn</div>
+                        <div class="g-points">22.3K</div>
+                    </div>
+                    <div class="actions">
+                        <button class="button green" type="button">
+                            <svg width="30" height="30" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M26.9998 2.29791C30.0365 2.29791 32.522 4.73813 32.5222 7.7901V21.5069H46.3708C49.4077 21.5069 51.8933 23.9479 51.8933 27.0001C51.8933 30.0522 49.4077 32.4922 46.3708 32.4922H32.5222V46.209C32.5222 49.2612 30.0366 51.7022 26.9998 51.7022C23.963 51.7021 21.4783 49.2611 21.4783 46.209V32.4922H7.62964C4.59281 32.4922 2.10721 30.0522 2.10718 27.0001C2.10718 23.9479 4.59279 21.5069 7.62964 21.5069H21.4783V7.7901C21.4785 4.73822 23.9632 2.29806 26.9998 2.29791Z" fill="white" stroke="white" stroke-width="4"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 </main>
 

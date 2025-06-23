@@ -13,9 +13,10 @@
                 <div class="profile-row">
                     <div class="left-container">
                         <div class="avatar-wrapper">
-                            <img src="/assets/images/card-image-1.png" alt="Profile avatar">
+                            <img src="/assets/images/default-avatar.png" alt="Profile avatar">
                             <div class="points-container">
-                                <img src="/" alt="GP icon">
+                                <img src="/assets/images/gp-icon.png" alt="GP icon">
+                                <span data-text="286.05K">286.05K</span>
                             </div>
                         </div>
                         <div class="info-wrapper">

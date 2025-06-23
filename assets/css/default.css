@@ -23,6 +23,14 @@
 	--color-mobmenu-profile-bg: #6F3E14;
 	--color-mobmenu-nav-hover: #bb814e;
 	--color-mobmenu-nav-active: #5c3615;
+
+	--color-fb: #3b5998;
+	--color-inst: #c13584;
+	--color-pntr: #c8232c;
+	--color-xtw: #1d9bf0;
+
+	--color-online: #28c76f;
+	--color-offline: #7f8c8d;
 }
 
 html {
@@ -135,6 +143,14 @@ button:-moz-focusring,
 
 textarea {
 	overflow: auto;
+}
+
+button,
+a,
+input,
+textarea {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 [type="checkbox"],
