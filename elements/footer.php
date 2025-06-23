@@ -5,7 +5,7 @@
                     <i class="fa-brands fa-square-facebook"></i>
                 </a>
                 <a class="link-item" href="#">
-                    <i class="fa-brands fa-square-x-twitter"></i>
+                    <i class="fa-brands fa-telegram"></i>
                 </a>
                 <a class="link-item" href="#">
                     <i class="fa-brands fa-square-instagram"></i>
