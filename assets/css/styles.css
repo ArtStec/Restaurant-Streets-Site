@@ -1870,10 +1870,10 @@ section .pagination-container .pagination-list .pagination-item a {
 }
 
 @media (min-width: 1800px) {
-    section[data-location="game-main"] .game-container iframe {
+    /* section[data-location="game-main"] .game-container iframe {
         width: 1100px !important;
         height: 650px !important;
-    }
+    } */
 
     section[data-location="home-slider"] .swiper-main .swiper-slide {
         height: 700px !important;
