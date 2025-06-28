@@ -93,7 +93,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    min-height: 75vh;
+    /* min-height: 75vh; */
+    min-height: unset;
+    height: 100%;
     align-content: center;
 }
 
@@ -1877,9 +1879,9 @@ section .pagination-container .pagination-list .pagination-item a {
         height: 700px !important;
     }
 
-    .page-content.page-game {
+    /* .page-content.page-game {
         min-height: 77vh !important;
-    }
+    } */
 }
 
 @media (hover:hover) {

@@ -46,6 +46,13 @@ body {
   	font-family: 'Nunito-Bold';
 }
 
+body:has(.page-content.page-game) {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
 pre {
 	font-family: monospace, monospace;
 	font-size: 1em;
