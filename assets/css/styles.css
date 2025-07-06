@@ -1245,12 +1245,6 @@ section .tabs-container {
 section .tabs-container .button-tab {
     all: unset;
     cursor: pointer;
-    font-family: 'Groboldov';
-    font-size: 18px;
-    text-align: center;
-    text-decoration: none;
-    text-transform: capitalize;
-    color: var(--color-darkbrown);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1264,6 +1258,33 @@ section .tabs-container .button-tab {
     height: 50px;
     box-sizing: border-box;
     text-wrap: nowrap;
+    text-align: center;
+    gap: 5px;
+}
+
+section .tabs-container .button-tab .online-icon {
+    position: relative;
+}
+
+section .tabs-container .button-tab .online-icon .fa-circle {
+    color: var(--color-online);
+    font-size: 0.5em;
+    position: absolute;
+    right: -2px;
+    bottom: 0;
+}
+
+section .tabs-container .button-tab span {
+    font-family: 'Groboldov';
+    font-size: 18px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: var(--color-darkbrown);
+}
+
+section .tabs-container .button-tab i {
+    font-size: 18px;
+    color: var(--color-darkbrown);
 }
 
 section .tabs-container .button-tab.active {
@@ -1876,11 +1897,14 @@ section .pagination-container .pagination-list .pagination-item a {
     }
     
     section .tabs-container .button-tab {
-        font-size: 17px;
         height: 45px;
     }
-}
 
+    section .tabs-container .button-tab i,
+    section .tabs-container .button-tab span {
+        font-size: 17px;
+    }
+}
 
 @media (max-width: 500px) {
     .main-section,
@@ -1936,6 +1960,14 @@ section .pagination-container .pagination-list .pagination-item a {
 
     section[data-location="home-slider"] .swiper-main .swiper-slide .slide-content .text-wrapper .title {
         font-size: 18px;
+    }
+    
+    section .tabs-container .button-tab {
+        height: 45px;
+    }
+
+    section .tabs-container .button-tab span {
+        display: none;
     }
 }
 

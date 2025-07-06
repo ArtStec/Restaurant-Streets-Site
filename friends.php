@@ -6,9 +6,22 @@
     </section>
     <section class="main-section" data-location="friend-tabs">
         <div class="tabs-container">
-            <button class="button-tab buttonFriendTab active" type="button" data-target=".requestTab">Friend requests</button>
-            <button class="button-tab buttonFriendTab" type="button" data-target=".friendsTab">Friends</button>
-            <button class="button-tab buttonFriendTab disabled" type="button" data-target=".onlineTab">Online</button>
+            <button class="button-tab buttonFriendTab active" type="button" data-target=".requestTab">
+                <i class="fas fa-user-plus"></i>
+                <span>Friend requests</span>
+            </button>
+            <button class="button-tab buttonFriendTab" type="button" data-target=".friendsTab">
+                <i class="fas fa-user-friends"></i>
+                <span>Friends</span>
+            </button>
+            <button class="button-tab buttonFriendTab disabled" type="button" data-target=".onlineTab">
+                <!-- <i class="fas fa-user-check"></i> -->
+                <div class="online-icon">
+                    <i class="fas fa-user-friends"></i>
+                    <i class="fas fa-circle"></i>
+                </div>
+                <span>Online</span>
+            </button>
         </div>
     </section>
     <section class="main-section category-tab requestTab" data-location="friend-requests">
