@@ -40,6 +40,22 @@ $('.buttonModalOpen').on('click', function() {
     }
 });
 
+//  
+$('.buttonFriendTab').on('click', function() {
+    let button = $(this);
+    let targetEl = $(this).attr('data-target');
+    let section = $('body').find(targetEl);
+
+    if (section.length) {
+        $('.button-tab.active').removeClass('active');
+        button.addClass('active');
+
+        $('.category-tab:visible').fadeOut(300, function() {
+            section.fadeIn(300);
+        });
+    }
+});
+
 // Close modal window on click
 $('.buttonModalClose').on('click', function() {
     $(this).closest('.modal').fadeOut(300);
