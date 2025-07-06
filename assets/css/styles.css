@@ -52,7 +52,7 @@
 } */
 
 .button.green {
-    color: var(--color-white);
+    color: #286401;
     background: linear-gradient(180deg, #BEF480 0%, #75B300 100%);
     border: 3px solid #286401;
 }
@@ -838,6 +838,11 @@ header[data-location="header"] .profile-container .avatar-wrapper .image-wrapper
     object-position: center;
 }
 
+header[data-location="header"] .right-container {
+    display: flex;
+    gap: 10px;
+}
+
 section[data-location="mobile-menu"] {
     position: fixed;
     left: 0;
@@ -1223,6 +1228,55 @@ section[data-location="game-main"] .game-container {
     justify-content: center;
 }
 
+section {
+    padding-bottom: unset;
+}
+
+section .tabs-container {
+    display: flex;
+    gap: 5px;
+    border-bottom: 3px solid var(--color-darkbrown);
+    overflow-x: hidden;
+    width: 100%;
+    overflow-x: auto;
+    margin-bottom: 1px;
+}
+
+section .tabs-container .button-tab {
+    all: unset;
+    cursor: pointer;
+    font-family: 'Groboldov';
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: var(--color-darkbrown);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-white);
+    border: 3px solid var(--color-darkbrown);
+    border-bottom: unset;
+    transition: 0.3s all ease-in-out;
+    padding: 10px 20px;
+    box-shadow: 0px 2px 4px rgba(85, 59, 22, 0.25);
+    border-radius: 10px 10px 0 0;
+    height: 50px;
+    box-sizing: border-box;
+    text-wrap: nowrap;
+}
+
+section .tabs-container .button-tab.active {
+    background: linear-gradient(to bottom, #ffc400, #ff8c00);
+    box-shadow: unset;
+    /* color: var(--color-white); */
+}
+
+section .tabs-container .button-tab.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
 section .friends-container .friend-wrapper {
     display: flex;
     gap: 10px;
@@ -1497,9 +1551,7 @@ section .pagination-container .pagination-list .pagination-item a {
         width: 120px;
     }
 
-    header[data-location="header"] .nav-container,
-    header[data-location="header"] .buttons-container,
-    header[data-location="header"] .profile-container {
+    header[data-location="header"] .nav-container {
         display: none;
     }
 
@@ -1509,6 +1561,10 @@ section .pagination-container .pagination-list .pagination-item a {
 
     section[data-location="mobile-menu"].active {
         padding-top: 70px;
+    }
+
+    section[data-location="mobile-menu"] .mobile-nav-container .mobile-profile-wrapper {
+        display: none;
     }
 
     section[data-location="home-slider"] .swiper-main .swiper-pagination {
@@ -1672,6 +1728,11 @@ section .pagination-container .pagination-list .pagination-item a {
         padding: 20px 30px;
     }
 
+    header[data-location="header"] .buttons-container,
+    header[data-location="header"] .profile-container {
+        display: none;
+    }
+
     section[data-location="mobile-menu"] .mobile-nav-container .mobile-nav-wrapper .nav-link a {
         padding: 15px 30px;
         font-size: 18px;
@@ -1680,6 +1741,10 @@ section .pagination-container .pagination-list .pagination-item a {
 
     section[data-location="mobile-menu"] .mobile-nav-container .mobile-profile-wrapper {
         padding: 10px 30px;
+    }
+
+    section[data-location="mobile-menu"] .mobile-nav-container .mobile-profile-wrapper {
+        display: flex;
     }
 
     section[data-location="home-slider"] .swiper-main .swiper-slide .slide-content .text-wrapper {
@@ -1809,6 +1874,11 @@ section .pagination-container .pagination-list .pagination-item a {
     .modal .modal-container.modal-md {
         max-width: 400px;
     }
+    
+    section .tabs-container .button-tab {
+        font-size: 17px;
+        height: 45px;
+    }
 }
 
 
@@ -1928,6 +1998,12 @@ section .pagination-container .pagination-list .pagination-item a {
 
     section .pagination-container .pagination-list .pagination-item.link:not(.active):hover {
         background: #eeebde;
+    }
+
+    section .button-tab:not(.active):hover {
+        box-shadow: unset;
+        scale: 0.95;
+        transform: translateY(1px);
     }
 }
 /* END Sections styles */

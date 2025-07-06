@@ -4,14 +4,8 @@
     <section class="main-section main-title-container">
         <h1 class="main-section-title">Friends</h1>
     </section>
-    <section class="main-section" data-location="friend-tabs">
-        <div class="tabs-container">
-            <button class="button-tab buttonFriendTab active" type="button" data-target=".requestTab">Friend requests</button>
-            <button class="button-tab buttonFriendTab" type="button" data-target=".friendsTab">Friends</button>
-            <button class="button-tab buttonFriendTab disabled" type="button" data-target=".onlineTab">Online</button>
-        </div>
-    </section>
-    <section class="main-section category-tab requestTab" data-location="friend-requests">
+    <section class="main-section" data-location="friend-requests">
+        <h2 class="main-section-title text-left">Friends requests</h2>
         <div class="friends-container"><div class="friend-wrapper">
                 <div class="avatar-container">
                     <img src="/assets/images/default-avatar.png" alt="User photo">
@@ -62,7 +56,8 @@
             </div>
         </div>
     </section>
-    <section class="main-section category-tab friendsTab" data-location="friends-list" style="display: none;">
+    <section class="main-section" data-location="friends-list">
+        <h2 class="main-section-title text-left">Friends list</h2>
         <div class="friends-container">
             <div class="friend-wrapper">
                 <div class="avatar-container">

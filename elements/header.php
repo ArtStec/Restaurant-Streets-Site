@@ -25,20 +25,22 @@
             <div class="nav-container">
                 <ul>
                     <li class="nav-link"><a href="/">Home</a></li>
-                    <li class="nav-link"><a href="/sample.php">Sample</a></li>
                     <li class="nav-link active"><a href="/search.php">Search</a></li>
                     <li class="nav-link"><a href="/friends.php">Friends</a></li>
                     <li class="nav-link"><a href="/privacy.php">Privacy</a></li>
+                    <li class="nav-link"><a href="/terms.php">Terms</a></li>
                     <li class="nav-link"><a href="/game.php">Game</a></li>
                 </ul>
             </div>
-            <div class="buttons-container">
-                <button class="button yellow buttonModalOpen" data-target=".modalLogin" type="button">Log In</button>
-                <button class="button yellow buttonModalOpen" data-target=".modalSignup" type="button">Sign Up</button>
+            <div class="right-container">
+                <div class="buttons-container">
+                    <button class="button yellow buttonModalOpen" data-target=".modalLogin" type="button">Log In</button>
+                    <button class="button yellow buttonModalOpen" data-target=".modalSignup" type="button">Sign Up</button>
+                </div>
+                <button class="button-mobile-menu buttonMobileMenuOpen" type="button">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
             </div>
-            <button class="button-mobile-menu buttonMobileMenuOpen" type="button">
-                <i class="fa-solid fa-bars"></i>
-            </button>
         </header>
         <section class="main-section mobileMenuContainer" data-location="mobile-menu">
             <div class="mobile-nav-container">
@@ -49,10 +51,10 @@
                 <div class="mobile-nav-wrapper">
                     <ul>
                         <li class="nav-link"><a href="/">Home</a></li>
-                        <li class="nav-link"><a href="/sample.php">Sample</a></li>
                         <li class="nav-link active"><a href="/search.php">Search</a></li>
                         <li class="nav-link"><a href="/friends.php">Friends</a></li>
                         <li class="nav-link"><a href="/privacy.php">Privacy</a></li>
+                        <li class="nav-link"><a href="/terms.php">Terms</a></li>
                         <li class="nav-link"><a href="/game.php">Game</a></li>
                     </ul>
                 </div>
