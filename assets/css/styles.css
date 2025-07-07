@@ -1170,9 +1170,12 @@ section[data-location="privacy-main"].privacy-section .content-wrapper .links-co
     height: fit-content;
     width: fit-content;
     padding: 30px;
+    transition: 0.3s all ease-in-out;
+}
+
+section[data-location="privacy-main"].privacy-section .content-wrapper .links-container.sticky {
     position: sticky;
     top: 110px;
-    transition: 0.3s all ease-in-out;
 }
 
 section[data-location="privacy-main"].privacy-section .content-wrapper .links-container ul {

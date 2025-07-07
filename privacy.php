@@ -4,7 +4,7 @@
     <section class="main-section privacy-section" data-location="privacy-main">
         <h1 class="title">Privacy Policy</h1>
         <div class="content-wrapper">
-            <div class="links-container">
+            <div class="links-container sticky">
                 <ul>
                     <li>
                         <a href="#rule-1" class="link-item">Information Collection</a>

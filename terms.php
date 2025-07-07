@@ -73,12 +73,12 @@
             </div>
             <div class="content">
                 <p><strong>Last Updated: May 22, 2023</strong></p>
-                <ol class="nested">
+                <ol class="nested m-0">
                     <li>
-                        <h2 id="rule-1">Information Collection</h2>
-                        <ul>
+                        <h2 id="rule-1">About these Terms</h2>
+                        <ol class="m-0">
                             <li>
-                                These terms apply to your downloading, accessing, and use of the Restaurant Streets game on your PC, mobile device, 
+                                1.1. These terms apply to your downloading, accessing, and use of the Restaurant Streets game on your PC, mobile device, 
                                 or our website at www.streets.cafe ("Website"), as well as on any other website, device, or platform (individually, the "Game"). 
                                 These terms also apply to all other services that we may provide in connection with the Game or the Website, such as customer 
                                 support, social networks, communities, and other websites where we operate. The Game and other services together are referred 
@@ -86,147 +86,147 @@
                                 and obligations regarding our Services.
                             </li>
                             <li>
-                                If you do not agree with these terms or any future updates to these terms, please refrain from using our Services and immediately 
+                                1.2. If you do not agree with these terms or any future updates to these terms, please refrain from using our Services and immediately 
                                 cease their use. In the event of changes to these terms that require additional actions on your part to accept them, you will not 
                                 be able to continue using the Services until such actions are completed.
                             </li>
                             <li>
-                                These terms constitute an agreement between you and the administration of the Restaurant Streets game (referred to as the 
+                                1.3. These terms constitute an agreement between you and the administration of the Restaurant Streets game (referred to as the 
                                 "Administration"). The parties agree that these terms operate in the interest of the Game and additional services provided 
                                 by the Administration.
                             </li>
-                            <li>FOR US RESIDENTS: IMPORTANT NOTICE: This agreement is subject to mandatory arbitration and class action waiver.</li>
-                            <li>In these terms, the terms "Game," "we," "us," or "our" refer to the Administration.</li>
+                            <li>1.4. FOR US RESIDENTS: IMPORTANT NOTICE: This agreement is subject to mandatory arbitration and class action waiver.</li>
+                            <li>1.5. In these terms, the terms "Game," "we," "us," or "our" refer to the Administration.</li>
                             <li>
-                                These terms are provided through the app stores or platforms from which you download the Game (e.g., Apple App Store, Google Play 
+                                1.6. These terms are provided through the app stores or platforms from which you download the Game (e.g., Apple App Store, Google Play 
                                 Store, Amazon App Store, Windows Phone Store) and are also available on any website or platform where you can play the Game, 
                                 including www.facebook.com and our website at www.streets.cafe ("Website"). By accessing and/or using our Services, you also 
                                 agree that you accept these terms and our privacy policy (see Section 13 below).
                             </li>
                             <li>
-                                By using our Services, you confirm that you are at least 13 years old, and if you are 13 years old but under 18 years old, your legal 
+                                1.7. By using our Services, you confirm that you are at least 13 years old, and if you are 13 years old but under 18 years old, your legal 
                                 guardian has reviewed and agrees to these terms and does not object to your access and/or use of our Services.
                             </li>
                             <li>
-                                You can always access the latest version of these terms at streets.cafe/terms. We reserve the right to make changes to these terms 
+                                1.8. You can always access the latest version of these terms at streets.cafe/terms. We reserve the right to make changes to these terms 
                                 at any time in accordance with Section 17 below. Your continued use of our Services after changes have been made confirms your agreement 
                                 to the updated terms.
                             </li>
                             <li>
-                                In the event of a conflict or discrepancy between the translation of these terms into other languages and the original English version, 
+                                1.9. In the event of a conflict or discrepancy between the translation of these terms into other languages and the original English version, 
                                 the English version shall prevail. We disclaim any liability for inaccuracies, errors, or incorrect translations that may occur in 
                                 translations into other languages. In case of discrepancies between the original English version and the translation, the English text 
                                 and its interpretation take precedence.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-2">About accessing and using our Services</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                To access and use our Services, you may need to create an account. You agree to provide accurate, complete, and up-to-date information when 
+                                2.1. To access and use our Services, you may need to create an account. You agree to provide accurate, complete, and up-to-date information when 
                                 registering an account and to update it if there are any changes. You are responsible for the security of your account and password, as well 
                                 as for any actions taken using your account.
                             </li>
                             <li>
-                                You agree to use our Services for lawful purposes and comply with all applicable laws and regulations, including but not limited to copyright, 
+                                2.2. You agree to use our Services for lawful purposes and comply with all applicable laws and regulations, including but not limited to copyright, 
                                 intellectual property rights, and public order rules. You are responsible for any unlawful or unauthorized use of our Services.
                             </li>
                             <li>
-                                We reserve the right to temporarily or permanently restrict or terminate your access to our Services in the event of a violation of these terms 
+                                2.3. We reserve the right to temporarily or permanently restrict or terminate your access to our Services in the event of a violation of these terms 
                                 or applicable laws. We may also suspend or terminate the provision of our Services at our discretion, without prior notice or obligation.
                             </li>
                             <li>
-                                You understand and agree that our Services may contain advertising content. You agree that we are not responsible for any advertising content 
+                                2.4. You understand and agree that our Services may contain advertising content. You agree that we are not responsible for any advertising content 
                                 provided by third parties and have no control over its content or accuracy. 
                             </li>
                             <li>
-                                Your use of our Services may involve the processing of your personal information. We are committed to complying with our privacy policy and 
+                                2.5. Your use of our Services may involve the processing of your personal information. We are committed to complying with our privacy policy and 
                                 implementing appropriate security measures to protect your personal information. Please refer to our privacy policy for additional information on 
                                 how we process and protect your information.
                             </li>
                             <li>
-                                You agree not to interfere with the functioning of our Services, not to use automated means to access them without our permission, and not to create 
+                                2.6. You agree not to interfere with the functioning of our Services, not to use automated means to access them without our permission, and not to create 
                                 derivative versions or modify the source code of our Services.
                             </li>
                             <li>
-                                We may provide you with updates, modifications, or new versions of our Services. You agree that the use of such updates and modifications is subject 
+                                2.7. We may provide you with updates, modifications, or new versions of our Services. You agree that the use of such updates and modifications is subject 
                                 to these terms.
                             </li>
                             <li>
-                                We may make changes to our Services, including their functionality, availability, and content, at our discretion and without prior notice. We may 
+                                2.8. We may make changes to our Services, including their functionality, availability, and content, at our discretion and without prior notice. We may 
                                 also terminate the provision of any functionality or Services at any time.
                             </li>
                             <li>
-                                You are prohibited from using our Services to transmit malware, viruses, or any other code that may harm our Services or users. You also agree not 
+                                2.9. You are prohibited from using our Services to transmit malware, viruses, or any other code that may harm our Services or users. You also agree not 
                                 to engage in unauthorized access to systems or data related to our Services.
                             </li>
                             <li>
-                                Your use of our Services implies your agreement to these terms and all applicable laws and regulations. If you disagree with these terms or any part 
+                                2.10. Your use of our Services implies your agreement to these terms and all applicable laws and regulations. If you disagree with these terms or any part 
                                 of them, you must immediately cease using our Services. 
                             </li>
                             <li>
-                                The Game's interface contains specific rules, scoring rules, management, and recommendations. These rules, along with the scoring rules, management, 
+                                2.11. The Game's interface contains specific rules, scoring rules, management, and recommendations. These rules, along with the scoring rules, management, 
                                 and recommendations, are an integral part of these terms, and you agree to comply with them.
                             </li>
                             <li>
-                                You are responsible for paying the expenses associated with internet connectivity and/or the use of mobile services that may arise from accessing 
+                                2.12. You are responsible for paying the expenses associated with internet connectivity and/or the use of mobile services that may arise from accessing 
                                 and/or using our Services. If you are unsure about the cost of such expenses, it is recommended to consult your mobile network operator or internet 
                                 service provider before using our Services.
                             </li>
                             <li>
-                                There may be temporary periods when our Services or parts of them are unavailable due to scheduled or unscheduled maintenance work.
+                                2.13. There may be temporary periods when our Services or parts of them are unavailable due to scheduled or unscheduled maintenance work.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-3">Accounts</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                When using our Services, you will need to create an account in our system. In doing so, you agree to take all necessary measures to 
+                                3.1. When using our Services, you will need to create an account in our system. In doing so, you agree to take all necessary measures to 
                                 protect your account information and keep it confidential.
                             </li>
                             <li>
-                                You agree not to disclose your account login information to anyone and not to allow others to use your account credentials or account 
+                                3.2. You agree not to disclose your account login information to anyone and not to allow others to use your account credentials or account 
                                 data.
                             </li>
                             <li>
-                                For the purposes of these provisions, "account login information" or "account" also includes login data and accounts on any social 
+                                3.3. For the purposes of these provisions, "account login information" or "account" also includes login data and accounts on any social 
                                 network or platform that our Services may interact with upon your permission.
                             </li>
                             <li>
-                                We assume that access to your account is carried out by you or with your permission. If your account login information becomes known 
+                                3.4. We assume that access to your account is carried out by you or with your permission. If your account login information becomes known 
                                 to third parties or you intentionally or accidentally disclose it to anyone, you assume full responsibility for any consequences 
                                 (including unauthorized purchases) and agree to fully compensate for any damages or losses that may arise.
                             </li>
                             <li>
-                                We reserve the right to delete your account if it remains inactive for 180 days or more. In this case, you will not be able to access 
+                                3.5. We reserve the right to delete your account if it remains inactive for 180 days or more. In this case, you will not be able to access 
                                 Virtual Currency, Virtual Goods, and associated information, and no compensation will be provided.
                             </li>
                             <li>
-                                You understand that by deleting your account, in any way, you may lose access to associated information, including game progress, 
+                                3.6. You understand that by deleting your account, in any way, you may lose access to associated information, including game progress, 
                                 achievements, and virtual resources.
                             </li>
                             <li>
-                                Your account is personal and cannot be transferred to other individuals.
+                                3.7. Your account is personal and cannot be transferred to other individuals.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-4">Virtual Goods and Virtual Currency</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                The game includes virtual currency, such as "StarGold" ("Virtual Currency"), as well as items and services intended for use within 
+                                4.1. The game includes virtual currency, such as "StarGold" ("Virtual Currency"), as well as items and services intended for use within 
                                 the game ("Virtual Goods"). To use Virtual Currency and/or Virtual Goods, you may need to reach a certain level or achievements in 
                                 the game. Once acquired, Virtual Currency and Virtual Goods have no monetary value and cannot be exchanged for real money, goods, 
                                 or services from us or third parties.
                             </li>
                             <li>
-                                You do not own Virtual Goods and/or Virtual Currency, but you can acquire a limited personal right to use them, which may be revoked. 
+                                4.2. You do not own Virtual Goods and/or Virtual Currency, but you can acquire a limited personal right to use them, which may be revoked. 
                                 The balance of Virtual Goods and/or Virtual Currency does not reflect stored value.
                             </li>
                             <li>
-                                After completing a purchase transaction for Virtual Currency and/or Virtual Goods, you agree that the transaction is final, and we do 
+                                4.3. After completing a purchase transaction for Virtual Currency and/or Virtual Goods, you agree that the transaction is final, and we do 
                                 not provide refunds. Prices for Virtual Currency and Virtual Goods do not include applicable taxes and fees from telecommunications 
                                 service providers, unless otherwise stated. You agree to pay any such taxes and fees in accordance with the law. If you are located 
                                 in the European Union, you have certain rights to cancel remote purchases. However, when purchasing a license to use Virtual Goods or 
@@ -235,7 +235,7 @@
                                 and successful crediting of Virtual Goods and/or Virtual Currency to your account on our servers.
                             </li>
                             <li>
-                                If you do not synchronize your game on the current device with your social media account or create a new account, we cannot restore 
+                                4.4. If you do not synchronize your game on the current device with your social media account or create a new account, we cannot restore 
                                 Virtual Currency or game data on other devices in the event of loss or malfunction of the current device. Therefore, on an unsynchronized device:
                                 <ul>
                                     <li>
@@ -251,27 +251,27 @@
                                 </ul>
                             </li>
                             <li>
-                                We reserve the right to monitor, regulate, modify, or delete any Virtual Currency and/or Virtual Goods, and we assume no financial 
+                                4.5. We reserve the right to monitor, regulate, modify, or delete any Virtual Currency and/or Virtual Goods, and we assume no financial 
                                 obligations to you regarding such actions.
                             </li>
                             <li>
-                                We reserve the right to revise the prices of Virtual Goods and Virtual Currency offered in our Service at any time. We may also impose 
+                                4.6. We reserve the right to revise the prices of Virtual Goods and Virtual Currency offered in our Service at any time. We may also impose 
                                 limits on the maximum quantity of Virtual Goods or Virtual Currency that can be purchased at once, as well as on the total amount of Virtual 
                                 Currency or Virtual Goods that can be held in your account. Please note that you can only purchase Virtual Currency and Virtual Goods from 
                                 us or our registered partners through our Service, and no other means.
                             </li>
                             <li>
-                                Depending on your platform, the terms of use for Virtual Goods and Virtual Currency may be defined by the terms of service and user agreement 
+                                4.7. Depending on your platform, the terms of use for Virtual Goods and Virtual Currency may be defined by the terms of service and user agreement 
                                 of your platform provider. Rights of use may vary depending on the acquired items. It is recommended to check the relevant information with 
                                 your platform representatives or contact our customer support if you have any questions regarding usage rights. Unless stated otherwise, 
                                 in-game stores have the same age restrictions as the game itself.
                             </li>
                             <li>
-                                Except as described in sections 3.7, 4.6, or 7.2, the blocking or closure of your account in accordance with these provisions may result in 
+                                4.8. Except as described in sections 3.7, 4.6, or 7.2, the blocking or closure of your account in accordance with these provisions may result in 
                                 the loss of Virtual Currency and/or Virtual Goods without reimbursement or compensation.
                             </li>
                             <li>
-                                Payment for each individual item you purchase on our website must be made at the specified price at the time of placing the order, except in 
+                                4.9. Payment for each individual item you purchase on our website must be made at the specified price at the time of placing the order, except in 
                                 cases of explicit errors. The cost includes sales taxes and other expenses. Your bank may charge additional fees that are independent of us, 
                                 and we are not responsible for such charges. If you have any doubts about additional fees, you should contact your bank for clarification before 
                                 making purchases on our website. We accept payments from partner payment systems using credit cards, debit cards, carrier billing, or the PayPal 
@@ -279,61 +279,61 @@
                                 partner payment system fails, the purchase will be canceled. After successful payment, your order will be processed as soon as possible, and 
                                 we will make every effort to deliver the purchased goods to you.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-5">User Conduct and Materials</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                            We strongly urge you to adhere to the rules when using our services. You are required to follow principles of respect, tolerance, and respect 
-                            the privacy of other users. 
+                                5.1. We strongly urge you to adhere to the rules when using our services. You are required to follow principles of respect, tolerance, and respect 
+                                the privacy of other users. 
                             </li>
                             <li>
-                                Posting, transmitting, or distributing any materials that may be considered illegal, harmful, threatening, offensive, defamatory, indecent, 
+                                5.2. Posting, transmitting, or distributing any materials that may be considered illegal, harmful, threatening, offensive, defamatory, indecent, 
                                 discriminatory, or containing profanity, or that infringe upon the rights of others, is prohibited.
                             </li>
                             <li>
-                                You are fully responsible for all materials you post or transmit through our services. We are not responsible for the content or accuracy of 
+                                5.3. You are fully responsible for all materials you post or transmit through our services. We are not responsible for the content or accuracy of 
                                 such materials.
                             </li>
                             <li>
-                                We reserve the right to review, moderate, and remove any materials that, in our opinion, violate these rules or pose a threat to the security, 
+                                5.4. We reserve the right to review, moderate, and remove any materials that, in our opinion, violate these rules or pose a threat to the security, 
                                 stability, or reputation of our services.
                             </li>
                             <li>
-                                In the event of a violation of these rules, we may take appropriate measures, including blocking your account or denying access to our services.
+                                5.5. In the event of a violation of these rules, we may take appropriate measures, including blocking your account or denying access to our services.
                             </li>
                             <li>
-                                We ask you to report any violations of these rules or instances of misconduct by other users so that we can take necessary actions.
+                                5.6. We ask you to report any violations of these rules or instances of misconduct by other users so that we can take necessary actions.
                             </li>
                             <li>
-                                We reserve the right to cooperate with law enforcement agencies or other organizations in the investigation of violations or as required by 
+                                5.7. We reserve the right to cooperate with law enforcement agencies or other organizations in the investigation of violations or as required by 
                                 applicable law.
                             </li>
                             <li>
-                                Please remember that your conduct and the materials you post or transmit may have consequences and impact your reputation and relationships 
+                                5.8. Please remember that your conduct and the materials you post or transmit may have consequences and impact your reputation and relationships 
                                 with other users. Be responsible and respect the rights and interests of other users.
                             </li>
                             <li>
-                                If you believe that your privacy or intellectual property rights have been infringed by other users, please contact us for assistance and 
+                                5.9. If you believe that your privacy or intellectual property rights have been infringed by other users, please contact us for assistance and 
                                 consideration of your complaint. We will take measures to protect your rights to the best of our ability.
                             </li>
                             <li>
-                                You must comply with the applicable laws of your country when using our services. If the law restricts your use of our services, you must 
+                                5.10. You must comply with the applicable laws of your country when using our services. If the law restricts your use of our services, you must 
                                 comply with those restrictions or cease accessing and using our services.
                             </li>
                             <li>
-                                You acknowledge that the information you provide when using our services is truthful, accurate, and complete.
+                                5.11. You acknowledge that the information you provide when using our services is truthful, accurate, and complete.
                             </li>
                             <li>
-                                Any materials, such as information, data, software, audio files, photographs, graphics, videos, tags, and other materials, may be sent, 
+                                5.12. Any materials, such as information, data, software, audio files, photographs, graphics, videos, tags, and other materials, may be sent, 
                                 uploaded, transmitted, or provided to other users through our services ("Materials"). You understand and agree that you are fully responsible 
                                 for all Materials you send when using our services, whether posted for public access or sent in private messages. This means that you are 
                                 fully responsible for all Materials you upload, send, transmit, or otherwise provide through our services, and we are not responsible for 
                                 such Materials.
                             </li>
                             <li>
-                                You agree not to upload, disclose, transmit, or otherwise make available any Materials that:
+                                5.13. You agree not to upload, disclose, transmit, or otherwise make available any Materials that:
                                 <ul>
                                     <li>
                                         Are or may be considered illegal, harmful, threatening, offensive, defamatory, indecent, or unacceptable for any reason;
@@ -360,7 +360,7 @@
                                 </ul>
                             </li>
                             <li>
-                                You are prohibited from:
+                                5.14. You are prohibited from:
                                 <ul>
                                     <li>
                                         Using our Services to cause harm, offense, or threats;
@@ -416,27 +416,27 @@
                                 </ul>
                             </li>
                             <li>
-                                We cannot guarantee the accuracy, completeness, or quality of the Materials posted by other users through our Services. You acknowledge 
+                                5.15. We cannot guarantee the accuracy, completeness, or quality of the Materials posted by other users through our Services. You acknowledge 
                                 that while using our Services, you may come across Materials that may be offensive, indecent, or unacceptable. We are not responsible 
                                 for any errors, omissions, or damages caused by such Materials, and for any losses or harm associated with their use.
                             </li>
                             <li>
-                                We reserve the right to remove Materials uploaded through our Services if we believe they violate these terms, harm our reputation 
+                                5.16. We reserve the right to remove Materials uploaded through our Services if we believe they violate these terms, harm our reputation 
                                 or the reputation of our Services. However, we do not actively monitor the Materials posted by users.
                             </li>
                             <li>
-                                You are fully responsible for interacting with other users of our Services. We are not liable for any losses, damages, or disputes arising from the Materials (including yours and other users' Materials), including claims related to reputation protection, harassment, or false endorsement of goods and services.
+                                5.17. You are fully responsible for interacting with other users of our Services. We are not liable for any losses, damages, or disputes arising from the Materials (including yours and other users' Materials), including claims related to reputation protection, harassment, or false endorsement of goods and services.
                                 <br>
                                 If you notice any violations of these provisions, please inform us at support@streets.cafe.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-6">Game with Other Users</h2>
                         <p>Our Services offer opportunities to play with other users. It is important to adhere to the following rules and recommendations:</p>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                Respect for Other Users:
+                                6.1. Respect for Other Users:
                                 <ul>
                                     <li>
                                         Interact with other players with respect and tolerance;
@@ -450,7 +450,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Fairness and Fair Play:
+                                6.2. Fairness and Fair Play:
                                 <ul>
                                     <li>
                                         Play fair and do not use illegal or prohibited methods to gain an advantage;
@@ -464,7 +464,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Protection of Personal Information:
+                                6.3. Protection of Personal Information:
                                 <ul>
                                     <li>
                                         Do not disclose the personal information of other players without their consent;
@@ -475,7 +475,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Reporting Violations:
+                                6.4. Reporting Violations:
                                 <ul>
                                     <li>
                                         If you encounter rule violations by other players, report them using the provided tools or contact information;
@@ -486,7 +486,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Consent to Display Information
+                                6.5. Consent to Display Information
                                 <p>
                                     By accessing Game, you agree that certain information, such as your display name, scores, avatar, country, network status, and other related 
                                     data, may be displayed on various media (both existing and future) indefinitely, without any compensation to you. This information may be 
@@ -502,13 +502,13 @@
                                     respect and safety while playing with other users.
                                 </p>
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-7">Cases of Violation of Terms of Use</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                If you violate the terms of use, we reserve the right to take appropriate actions in accordance with applicable laws and at our discretion. 
+                                7.1. If you violate the terms of use, we reserve the right to take appropriate actions in accordance with applicable laws and at our discretion. 
                                 In case of violations, we may take the following actions:
                                 <ul>
                                     <li>
@@ -532,7 +532,7 @@
                                 </p>
                             </li>
                             <li>
-                                Measures for Material Violation.
+                                7.2. Measures for Material Violation.
                                 <p>
                                     We reserve the right to take the following measures if we reasonably believe that you have materially violated the terms of use, even in the 
                                     case of minor violations, with or without prior notice:
@@ -557,13 +557,13 @@
                                 </p>
                             </li>
                             <li>
-                                Compensation for Damages
+                                7.3. Compensation for Damages
                                 <p>
                                     You agree to indemnify us for any losses, damages, claims, and expenses incurred as a result of your violation of these terms, in 
                                     accordance with applicable legal requirements.
                                 </p>
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-8">Availability of Our Services</h2>
@@ -571,26 +571,26 @@
                             We strive to ensure continuous availability of our services; however, we cannot guarantee uninterrupted operation. Periodic disruptions 
                             may occur due to technical issues, updates, or unforeseen events.
                         </p>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                Technical Issues: We are not responsible for any problems caused by technical failures, malfunctions, or network issues that may 
+                                8.1. Technical Issues: We are not responsible for any problems caused by technical failures, malfunctions, or network issues that may 
                                 temporarily limit access to our services or affect their operation.
                             </li>
                             <li>
-                                Updates and Changes: We reserve the right to make changes, updates, or improvements to our services without prior notice. As a result, 
+                                8.2. Updates and Changes: We reserve the right to make changes, updates, or improvements to our services without prior notice. As a result, 
                                 some features may be temporarily unavailable or modified.
                             </li>
                             <li>
-                                Force Majeure: We are not liable for any delays, interruptions, or inability to provide services due to force majeure events, such as 
+                                8.3. Force Majeure: We are not liable for any delays, interruptions, or inability to provide services due to force majeure events, such as 
                                 natural disasters, fires, earthquakes, wars, riots, acts of terrorism, power supply or network issues, government restrictions, or any 
                                 other circumstances beyond our reasonable control.
                             </li>
                             <li>
-                                Termination of Service Provision: We reserve the right to terminate the provision of our services at any time at our own discretion. In 
+                                8.4. Termination of Service Provision: We reserve the right to terminate the provision of our services at any time at our own discretion. In 
                                 the event of such termination, we will attempt to provide prior notice if reasonably possible.
                             </li>
                             <li>
-                                For residents of the United States: We cannot guarantee the continuous availability of our services at all times or at the present moment, 
+                                8.5. For residents of the United States: We cannot guarantee the continuous availability of our services at all times or at the present moment, 
                                 and we reserve the right to change or update our services without prior notice. We make no warranties regarding the availability of our 
                                 services and reserve the right to make decisions about changes or termination of services at our discretion, including discontinuation 
                                 of the Game or any other service for economic, technical, or improvement reasons. Notwithstanding any contrary provisions, you acknowledge 
@@ -598,7 +598,7 @@
                                 to this. By using our services, you assume all risks associated with the termination of services.
                             </li>
                             <li>
-                                For residents of countries outside the United States: We cannot guarantee that all our services will always be error-free. However, we 
+                                8.6. For residents of countries outside the United States: We cannot guarantee that all our services will always be error-free. However, we 
                                 commit to providing services in compliance with all applicable legal standards. When it comes to Virtual Currency and/or Virtual Goods 
                                 purchased with real money, we guarantee their conformity to the description and satisfactory quality. We reserve the right to change 
                                 and update our services without prior notice (except in cases where such changes significantly impair the functionality of the paid 
@@ -613,7 +613,7 @@
                                     we will strive to resolve them as quickly as possible.
                                 </p>
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-9">Liability Limitation for Residents of the United States</h2>
@@ -628,14 +628,14 @@
                     </li>
                     <li>
                         <h2 id="rule-10">Liability Limitation for non-residents of the United States</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                We are liable for cases of death or bodily injury caused by our negligence or the negligence of our employees or agents, as well 
+                                10.1. We are liable for cases of death or bodily injury caused by our negligence or the negligence of our employees or agents, as well 
                                 as for losses or damages caused by our fraudulent actions or the fraudulent actions of our agents, and any other liability that 
                                 cannot be excluded by law. 
                             </li>
                             <li>
-                                We are not liable for:
+                                10.2. We are not liable for:
                                 <ul>
                                     <li>
                                         losses or damages not caused by a breach of these terms or negligence on our part;
@@ -658,39 +658,39 @@
                                 </ul>
                             </li>
                             <li>
-                                For any losses or damages (excluding those stated in section 10.1 and subject to the provisions of section 10.2), our liability is 
+                                10.3. For any losses or damages (excluding those stated in section 10.1 and subject to the provisions of section 10.2), our liability is 
                                 limited to a period of 12 months and only if such losses or damages can reasonably be considered a result of our negligence or a breach 
                                 of these terms and conditions. In such a case, our liability is limited to the amount paid by you for our services during the last 100 
                                 days prior to the submission of your claim. Losses and damages are considered foreseeable if they arise
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-11">Intellectual property</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                All intellectual property rights related to the game and services remain our property or the property of the respective rights holders. 
+                                11.1. All intellectual property rights related to the game and services remain our property or the property of the respective rights holders. 
                                 You do not acquire any rights to use our trademarks, logos, images, texts, or other materials unless expressly provided for in these 
                                 terms or granted to you in writing.
                             </li>
                             <li>
-                                You agree not to interfere with our intellectual property, including but not limited to unauthorized reproduction, distribution, or 
+                                11.2. You agree not to interfere with our intellectual property, including but not limited to unauthorized reproduction, distribution, or 
                                 modification of the game or materials. Any unauthorized use may result in civil and criminal liability.
                             </li>
                             <li>
-                                In the event of any infringement of our intellectual property, we reserve the right to take appropriate legal action to protect our 
+                                11.3. In the event of any infringement of our intellectual property, we reserve the right to take appropriate legal action to protect our 
                                 rights, including claims for compensation for damages.
                             </li>
                             <li>
-                                If you believe that any material infringes your intellectual property rights, please contact us to provide us with the necessary 
+                                11.4. If you believe that any material infringes your intellectual property rights, please contact us to provide us with the necessary 
                                 information and evidence. We will review all claims and take action in accordance with applicable law.
                             </li>
                             <li>
-                                Any suggestions, ideas, or feedback you provide to us regarding the game or services may be used by us without any restrictions or 
+                                11.5. Any suggestions, ideas, or feedback you provide to us regarding the game or services may be used by us without any restrictions or 
                                 obligations for compensation. You acknowledge that you will not claim copyright or compensation for the use of such suggestions, 
                                 ideas, or feedback.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-12">For residents of the United States of America - US government rights</h2>
@@ -703,9 +703,9 @@
                     </li>
                     <li>
                         <h2 id="rule-13">Confidentiality</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                Collection of personal data:
+                                13.1. Collection of personal data:
                                 <ul>
                                     <li>
                                         We only collect necessary information related to your use of our games and services;
@@ -719,7 +719,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Collection of personal data:
+                                13.2. Collection of personal data:
                                 <ul>
                                     <li>
                                         We use your personal data to provide and improve our games and services;
@@ -733,7 +733,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Disclosure of personal data:
+                                13.3. Disclosure of personal data:
                                 <ul>
                                     <li>
                                         We may disclose your personal data when necessary in accordance with applicable laws or in cases of justified requests 
@@ -746,7 +746,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Protection of personal data:
+                                13.4. Protection of personal data:
                                 <ul>
                                     <li>
                                         We take security measures to protect your personal data from unauthorized access, use, or disclosure.
@@ -760,7 +760,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Retention of personal data:
+                                13.5. Retention of personal data:
                                 <ul>
                                     <li>
                                         We store your personal data only for the necessary period specified in our data retention policy.
@@ -771,7 +771,7 @@
                                 </ul>
                             </li>
                             <li>
-                                User rights:
+                                13.6. User rights:
                                 <ul>
                                     <li>
                                         You have the right to request access to your personal data and make corrections if they are incorrect or outdated.
@@ -784,13 +784,13 @@
                                     </li>
                                 </ul>
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-14">Links</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                Links to third-party resources:
+                                14.1. Links to third-party resources:
                                 <ul>
                                     <li>
                                         We may provide links to third-party websites or services from our services.
@@ -804,7 +804,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Liability and losses:
+                                14.2. Liability and losses:
                                 <ul>
                                     <li>
                                         We are not responsible for any losses, damages, or expenses incurred as a result of using third-party websites or services.
@@ -815,7 +815,7 @@
                                 </ul>
                             </li>
                             <li>
-                                Third-party privacy policies:
+                                14.3. Third-party privacy policies:
                                 <ul>
                                     <li>
                                         You acknowledge that when using third-party resources, you are subject to their privacy policy (if applicable).
@@ -825,7 +825,7 @@
                                     </li>
                                 </ul>
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-15">Transfer of Terms</h2>
@@ -844,16 +844,16 @@
                     </li>
                     <li>
                         <h2 id="rule-17">Amendments</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                You can always review our current terms on the streets.cafe/terms website.
+                                17.1. You can always review our current terms on the streets.cafe/terms website.
                             </li>
                             <li>
-                                We reserve the right to periodically make changes to these terms, and updated versions will be posted at the specified address.
+                                17.2. We reserve the right to periodically make changes to these terms, and updated versions will be posted at the specified address.
                                 <br>
                                 We may make changes for various reasons, including changes to our products or services due to technical or legal requirements, as well as in connection with changes in our business. If you do not agree with any changes or additions to our terms, we ask that you immediately discontinue using our services and accessing them.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-18">Preservation of Effect</h2>
@@ -874,15 +874,15 @@
                     </li>
                     <li>
                         <h2 id="rule-20">Complaint Resolution and Disputes</h2>
-                        <ul>
+                        <ol class="m-0">
                             <li>
-                                Most issues can be resolved promptly. If you have any questions, please contact us at support@streets.cafe.
+                                20.1. Most issues can be resolved promptly. If you have any questions, please contact us at support@streets.cafe.
                             </li>
                             <li>
-                                If we are unable to resolve your concerns and you decide to take legal action against us, these terms must be governed by and 
+                                20.2. If we are unable to resolve your concerns and you decide to take legal action against us, these terms must be governed by and 
                                 interpreted in accordance with the laws.
                             </li>
-                        </ul>
+                        </ol>
                     </li>
                     <li>
                         <h2 id="rule-21">Questions Regarding These Terms</h2>
