@@ -283,7 +283,7 @@
                     </li>
                     <li>
                         <h2 id="rule-5">User Conduct and Materials</h2>
-                        <ol>
+                        <ol class="m-0">
                             <li>
                                 5.1. We strongly urge you to adhere to the rules when using our services. You are required to follow principles of respect, tolerance, and respect 
                                 the privacy of other users. 
